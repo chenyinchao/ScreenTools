@@ -1,0 +1,2 @@
+rootProject.name='ScreenTools'
+include ':app'
